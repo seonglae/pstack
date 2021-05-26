@@ -2,7 +2,7 @@
   "name": "pstack",
   "displayName": "PStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.x.x"
   },
