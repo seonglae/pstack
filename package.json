@@ -1,6 +1,6 @@
 {
-  "name": "gstack",
-  "displayName": "GStack",
+  "name": "pstack",
+  "displayName": "PStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
   "version": "1.0.0",
   "engines": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/gstack"
+    "url": "https://github.com/seonglae/pstack"
   },
   "license": "MIT",
   "publisher": "seonglae",
@@ -21,11 +21,28 @@
     "Extension Packs"
   ],
   "keywords": [
-    "geology"
+    "terminal",
+    "productivity",
+    "automation",
+    "git",
+    "remote"
   ],
   "extensionPack": [
-    "SmartMonkey.geotools",
-    "jumpinjackie.vscode-map-preview",
-    "RandomFractalsInc.geo-data-viewer"
+    "devwright.vscode-terminal-capture",
+    "saurabh.terminal-manager",
+    "seonglae.terminal-intuiter",
+    "jrieken.references-plusplus",
+    "geddski.macros",
+    "WakaTime.vscode-wakatime",
+    "dakara.dakara-foldplus",
+    "kevinkyang.auto-comment-blocks",
+    "lokalise.i18n-ally",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-containers",
+    "rioukkevin.vscode-git-commit",
+    "ryu1kn.annotator",
+    "henriiik.vscode-sort"
   ]
 }
