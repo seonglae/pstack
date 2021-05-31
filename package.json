@@ -2,7 +2,7 @@
   "name": "pstack",
   "displayName": "PStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.x.x"
   },
@@ -36,7 +36,6 @@
     "WakaTime.vscode-wakatime",
     "dakara.dakara-foldplus",
     "kevinkyang.auto-comment-blocks",
-    "lokalise.i18n-ally",
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-containers",
