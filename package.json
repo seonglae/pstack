@@ -4,7 +4,7 @@
   "description": "Productivity VSCode Extension Pack for Nerds",
   "version": "1.0.4",
   "engines": {
-    "vscode": "^1.x.x"
+    "vscode": "^1.65.2"
   },
   "scripts": {
     "release": "vsce package && vsce publish"
